@@ -9,14 +9,14 @@ function setup() {
   movingRect.shapeColor = "green";
   movingRect.debug = true;
 
-  gameObject1=createSprite(100,100,50,50);
+ /* gameObject1=createSprite(100,100,50,50);
   gameObject1.shapeColor="yellow";
   gameObject2=createSprite(200,100,50,50);
   gameObject2.shapeColor="silver";
   gameObject3=createSprite(300,100,50,50);
   gameObject3.shapeColor="orange";
   gameObject4=createSprite(400,100,50,50);
-  gameObject4.shapeColor="pink";
+  gameObject4.shapeColor="pink";*/
 
 
   movingRect.velocityY = -5;
